@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **swopblock/swopblock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +24,7 @@ This repository is where we develop Swopblock Code. Not only do we work on code 
 
 [Swopblock Code](https://swopblock.org) is a distribution of the repository and is released and copyrighted under the Swopbock Code developer's and promoter's endowment fund.
 
-[Swopblock Code](https://code.visualstudio.com) is an application that allows a user to conduct counterparty-secure exchange-party-free crypto currency trading.
+[Swopblock Code](https://swopblock.org) is an application that allows a user to conduct counterparty-secure exchange-party-free crypto currency trading.
 
 ## Contributing
 
@@ -34,7 +32,7 @@ There are many ways in which you can participate in the project, for example:
 
 * [Submit bugs and feature requests](https://github.com/swopblock/swopblock/issues), and help us verify as they are checked in
 * Review [source code changes](https://github.com/swopblock/swopblock/pulls)
-* Review the [documentation](https://github.com/swopblock/swopblock/vscode-docs) and make pull requests for anything from typos to new content
+* Review the [documentation](https://github.com/swopblock/swopblock/docs) and make pull requests for anything from typos to new content
 
 If you are interested in fixing issues and contributing directly to the code base,
 please see the document [How to Contribute](https://github.com/swopblock/swopblock/wiki/How-to-Contribute), which covers the following:
