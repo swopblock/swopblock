@@ -13,18 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Swopblock Code - Open Source
+# Swopblock APP - Open Source
+Counter-party-secure exchange-party-free cross-blockchain exchange.
+
 
 ## The Repository
 
-This repository is where we develop Swopblock Code. Not only do we work on code and issues here, we also publish our [roadmap](https://github.com/swopblock/swopblock), [monthly iteration plans](https://github.com/swopblock/swopblock) and our [endgame plans](https://github.com/swopblock/swopblock). This source code is available to everyone under the standard [Apache License 2.0](https://github.com/swopblock/swopblock).
+This repository is where we develop Swopblock APP. Not only do we work on code and issues here, we also publish our [roadmap](https://github.com/swopblock/swopblock), [monthly iteration plans](https://github.com/swopblock/swopblock) and our [endgame plans](https://github.com/swopblock/swopblock). This source code is available to everyone under the standard [Apache License 2.0](https://github.com/swopblock/swopblock).
 
 ## Swopblock Code
 
 
-[Swopblock Code](https://swopblock.org) is a distribution of the repository and is released and copyrighted under the Swopbock Code developer's and promoter's endowment fund.
+[Swopblock APP](https://swopblock.org) is a distribution of the repository and is released and copyrighted under the Swopbock APP developer's and promoter's endowment fund.
 
-[Swopblock Code](https://swopblock.org) is an application that allows a user to conduct counterparty-secure exchange-party-free crypto currency trading.
+[Swopblock APP](https://swopblock.org) is an application that allows a user to conduct counterparty-secure exchange-party-free crypto currency trading.
 
 ## Contributing
 
@@ -59,7 +61,7 @@ Many of the core components and extensions to Swopblock Code live in their own r
 
 ## Bundled Abstration Layer Network Adapters
 
-Swopblock Code includes a set of built-in network adapters located in the [adapters](adapters) folder, including adapters for the BTC, ETH and IOTA blockchain networks. Adapters provide access to a blockchain network and have the suffix `network-adapter`. For example, the `BTC-network-adapter` network adapter supports access to the `BTC` network.
+Swopblock APP includes a set of built-in network adapters located in the [adapters](adapters) folder, including adapters for the BTC, ETH and IOTA blockchain networks. Adapters provide access to a blockchain network and have the suffix `network-adapter`. For example, the `BTC-network-adapter` network adapter supports access to the `BTC` network.
 
 ## Code of Conduct
 
