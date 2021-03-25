@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Swopblock APP - Open Source
 
-[Swopblock APP](https://swopblock.org) is a distribution of the repository and is released and copyrighted under the Swopbock APP developer's and promoter's endowment fund.
+[Swopblock APP](https://swopblock.org) is a distribution of the repository and is released and copyrighted under Swopblock's developer endowment fund.
 
 [Swopblock APP](https://swopblock.org) is an application that allows a user to conduct counterparty-secure exchange-party-free crypto currency trading.
 
