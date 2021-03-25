@@ -14,19 +14,16 @@ Here are some ideas to get you started:
 -->
 
 # Swopblock APP - Open Source
-Counter-party-secure exchange-party-free cross-blockchain exchange.
+
+[Swopblock APP](https://swopblock.org) is a distribution of the repository and is released and copyrighted under the Swopbock APP developer's and promoter's endowment fund.
+
+[Swopblock APP](https://swopblock.org) is an application that allows a user to conduct counterparty-secure exchange-party-free crypto currency trading.
 
 
 ## The Repository
 
 This repository is where we develop Swopblock APP. Not only do we work on code and issues here, we also publish our [roadmap](https://github.com/swopblock/swopblock), [monthly iteration plans](https://github.com/swopblock/swopblock) and our [endgame plans](https://github.com/swopblock/swopblock). This source code is available to everyone under the standard [Apache License 2.0](https://github.com/swopblock/swopblock).
 
-## Swopblock Code
-
-
-[Swopblock APP](https://swopblock.org) is a distribution of the repository and is released and copyrighted under the Swopbock APP developer's and promoter's endowment fund.
-
-[Swopblock APP](https://swopblock.org) is an application that allows a user to conduct counterparty-secure exchange-party-free crypto currency trading.
 
 ## Contributing
 
