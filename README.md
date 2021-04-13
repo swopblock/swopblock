@@ -3,7 +3,7 @@
 Swopblock - 
 ===============================================================================
 
-## Real-time, counter-party-secure, exchange-party-free crypto trading.
+## Real-time, counter-party-secure, exchange-party-free crypto trading app.
 
 Swopblock offers proven security, universal access, and realtime crypto currency 
 trading in an exchange protocol that solves the problems with the insecurities 
