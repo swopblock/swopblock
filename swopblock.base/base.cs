@@ -1,4 +1,6 @@
-﻿using System;
+﻿// SPDX-License-Identifier: GPL-2.0
+
+using System;
 
 namespace SwopblockBase
 {
@@ -17,6 +19,4 @@ namespace SwopblockBase
     public record MarketableTransactionHashes(Transactions Transaction, MarketableTransactions InputMarket, MarketableTransactions OutputMarket);
 
     public record MarketableTransactions(MarketableTransactionHashes Hash, Transactions Transaction, MarketableTransactions InputMarket, MarketableTransactions OutputMarket);
-
-
 }
